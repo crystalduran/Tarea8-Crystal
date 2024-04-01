@@ -1,16 +1,13 @@
 # elecciones_20220553
 
-A new Flutter project.
+Aplicación móvil destinada a delegados de partidos políticos para su uso durante el día de las elecciones. Esta aplicación les permitirá registrar y gestionar situaciones y vivencias en los centros de votación de una manera segura y organizada. 
 
-## Getting Started
+La aplicación incluye las siguientes características:
 
-This project is a starting point for a Flutter application.
+Registro de Eventos: permite a los usuarios ingresar y guardar registros con los siguientes datos: Título, Fecha, Descripción, Foto y Audio.
 
-A few resources to get you started if this is your first Flutter project:
+Visualización de Eventos: muestra un listado de todas las vivencias registradas y permite la visualización detallada de cada evento, incluyendo la foto y la reproducción del audio.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sección "Acerca de": incluye una sección que muestra información sobre el delegado que usa la aplicación: Foto, Nombre, Apellido y Matrícula y tiene una reflexión o frase relacionada con la democracia, las elecciones o el servicio cívico.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Función de Seguridad: tiene una opción para borrar todos los registros almacenados en el dispositivo en caso de emergencia.
